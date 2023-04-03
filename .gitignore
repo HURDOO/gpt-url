@@ -1,0 +1,3 @@
+.idea
+.venv
+urlshortener/db.sqlite3
